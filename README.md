@@ -1,6 +1,5 @@
-# table9x9
-Print beautiful one digit multiply table from 2
-
+Print beautiful multiplication table from 2
+```
  2 * 1 =  2   3 * 1 =  3   4 * 1 =  4   5 * 1 =  5  
  2 * 2 =  4   3 * 2 =  6   4 * 2 =  8   5 * 2 = 10  
  2 * 3 =  6   3 * 3 =  9   4 * 3 = 12   5 * 3 = 15  
@@ -20,3 +19,4 @@ Print beautiful one digit multiply table from 2
  6 * 7 = 42   7 * 7 = 49   8 * 7 = 56   9 * 7 = 63  
  6 * 8 = 48   7 * 8 = 56   8 * 8 = 64   9 * 8 = 72  
  6 * 9 = 54   7 * 9 = 63   8 * 9 = 72   9 * 9 = 81  
+```
