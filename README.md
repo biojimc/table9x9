@@ -1,4 +1,16 @@
 Print beautiful multiplication table from 2
+
+Python program
+```
+for k in [6,10]:
+    for j in [1, 2, 3, 4, 5, 6, 7, 8, 9]:
+        for i in list(range(k-4,k)):
+            print(f"{i:2d} *{j:2d} = {i*j:2d}", end="  ")
+        print("")
+    print("")
+```
+
+Output
 ```
  2 * 1 =  2   3 * 1 =  3   4 * 1 =  4   5 * 1 =  5  
  2 * 2 =  4   3 * 2 =  6   4 * 2 =  8   5 * 2 = 10  
